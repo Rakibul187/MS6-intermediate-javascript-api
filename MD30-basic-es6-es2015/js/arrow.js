@@ -1,3 +1,5 @@
+const money = 1000;
+
 // function expression
 const add1 = function add(first, second) {
     const total = first + second;
